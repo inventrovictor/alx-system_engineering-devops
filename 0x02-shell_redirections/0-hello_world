@@ -1,5 +1,5 @@
 #!/bin/bash
-printf "Hello, World"
+echo "Hello, World"
 
 
 
